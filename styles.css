@@ -5,14 +5,30 @@ h1 {
   font-size: 100px;
 }
 
-
-
-.Tripp7-div{
-  background-color: #00ff73;
-  border-radius: 12px;
-  
+body {
+  margin: 0;
 }
 
-h2{
+.Tripp7-div {
+  background-color: #00ff73;
+  padding: 20px;
+}
+
+h2 {
   text-align: center;
+  font-family: UnifrakturMaguntia;
+  font-size: 40px;
+}
+
+.tripp7beats{
+  width: 100%;
+}
+
+.video{
+  width: 100%;
+}
+
+.audio{
+  height: 200px;
+  width: 100%;
 }
