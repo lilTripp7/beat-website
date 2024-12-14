@@ -6,6 +6,9 @@ h1 {
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  gap:9px;
   margin: 0;
 }
 
@@ -28,7 +31,7 @@ h2 {
   width: 100%;
 }
 
-.audio{
-  height: 200px;
+audio{
+  height: 20px;
   width: 100%;
 }
